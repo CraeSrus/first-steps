@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BeguiledPanel()
+comment1.params=graphics
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment2.params=pane
+comment2.target=void\ getPanelWidth(javax.swing.JPanel)
+comment3.params=pane
+comment3.target=void\ getPanelHeight(javax.swing.JPanel)
+comment4.params=pane
+comment4.target=void\ checkWallDeath(javax.swing.JPanel)
+comment5.params=
+comment5.target=void\ death()
+comment6.params=
+comment6.target=java.awt.Color\ randomBColor()
+comment7.params=
+comment7.target=java.awt.Color\ randomColor()
+numComments=8
